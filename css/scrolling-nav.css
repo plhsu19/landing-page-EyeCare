@@ -1,0 +1,90 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/templates/scrolling-nav)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+ body {
+ 	font-family: 'Open Sans', sans-serif;
+ }
+
+
+ .navbar {
+ 	background-color: #dfe2e9;
+ }
+
+ .navbar-nav-custom {
+ 	font-size: 1.2rem;
+ }
+
+ .nav_brand_custom {
+ 	font-size: 1.5rem;
+ }
+
+ .logo {
+ 	width: 10%;
+ 	margin-right: 5px;
+ }
+
+ header {
+ 	padding: 10rem 0 25rem; 
+ 	background: url('../images/background4.7.png') no-repeat;
+ 	background-size: contain;
+ }
+
+ .main_header {
+ 	font-size: 3rem;
+ 	font-weight: bold;
+ }
+
+ .lead {
+ 	font-size: 30px;
+ }
+
+.btn-custom {
+	font-size: 1.2rem;
+	border-radius: 2rem;
+	padding: .7rem 1.5rem;
+	margin-top: 1.5rem;
+}
+
+.btn-custom:hover {
+	background-color: #6c757d;
+	border-color: #6c757d;
+	border-width: 0.2rem;
+}
+
+
+ section {
+ 	padding: 150px 0;
+ }
+
+ .showcase_img {
+ 	width: 100%;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
