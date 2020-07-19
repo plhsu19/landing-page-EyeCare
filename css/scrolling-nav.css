@@ -27,9 +27,9 @@
  }
 
  header {
- 	padding: 10rem 0 25rem; 
- 	background: url('../images/background4.7.png') no-repeat;
- 	background-size: contain;
+ 	padding: 10rem 0 20rem 0; 
+ 	background: url('../images/background4.7.png') no-repeat center center;
+ 	background-size: cover;
  }
 
  .main_header {
@@ -38,14 +38,15 @@
  }
 
  .lead {
- 	font-size: 30px;
+ 	font-size: 28px;
  }
 
 .btn-custom {
 	font-size: 1.2rem;
 	border-radius: 2rem;
 	padding: .7rem 1.5rem;
-	margin-top: 1.5rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
 }
 
 .btn-custom:hover {
@@ -56,15 +57,41 @@
 
 
  section {
- 	padding: 150px 0;
+ 	padding: 150px 30px 150px 30px;
  }
+
+ #Product {
+ 	padding: 0;
+ }
+
+.product_descript {
+	padding: 150px 50px 150px 50px;
+}
+
 
  .showcase_img {
- 	width: 100%;
+ 	background-image: url(../images/showcase2.jpeg);
+ 	min-height: 25rem;
+ 	background-size: cover;
  }
 
+ li {
+ 	font-size: 1.3rem;
+ }
 
+ .card-text {
+ 	font-size: 1.3rem;
+ }
 
+.col-custom {
+	padding-right: 2rem;
+	padding-left: 2rem;
+}
+
+.card-footer {
+	display: flex;
+	justify-content: center;
+}
 
 
 
