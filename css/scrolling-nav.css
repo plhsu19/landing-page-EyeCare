@@ -55,6 +55,19 @@
 	border-width: 0.2rem;
 }
 
+.btn-custom2 {
+	font-size: 1.3rem;
+	border-radius: 1.5rem;
+	padding: .5rem 1rem;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+.btn-custom2:hover {
+	background-color: #6c757d;
+	border-color: #6c757d;
+	border-width: 0.2rem;
+}
 
  section {
  	padding: 150px 30px 150px 30px;
@@ -65,7 +78,7 @@
  }
 
 .product_descript {
-	padding: 150px 50px 150px 50px;
+	padding: 150px 75px 150px 75px;
 }
 
 
@@ -98,10 +111,28 @@
 	justify-content: center;
 }
 
+#Price {
+	background: url(../images/background2.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
 
+hr {
+	border-color: #6c757d;
+	border-width: 2px;
+	max-width: 70px;
+}
 
+.btn-contact {
+	font-size: 1.2rem;
+	border-radius: 2rem;
+	padding: .7rem 1.5rem;
+}
 
-
+.btn-contact:hover {
+	background-color: #6c757d;
+	border-color: #6c757d;
+	border-width: 0.2rem;
+}
 
 
 
