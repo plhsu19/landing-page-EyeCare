@@ -1,6 +1,7 @@
 ## A startup landing page demo: EyeCare
 ----
-<em>The landing page is bootstrapped with the the template provided by "Start Bootstrap": https://github.com/StartBootstrap/startbootstrap-scrolling-nav  </em>
+<em>The landing page is bootstrapped with the the template provided by "Start Bootstrap": https://github.com/StartBootstrap/startbootstrap-scrolling-nav  </em><br>
+
 <strong>A demo of responsive landing page for a (imaginary) startup product "smart glasses". The page includes:</strong>
 * navbar
 * header
